@@ -2,8 +2,7 @@
   <img src="https://svgur.com/i/iuT.svg" />
 </h1>
 
-## Hey! 👋
-I'm Omri, A web developer from Israel.
+## Hey! 👋 I'm Omri, A web developer from Israel.
 
 ## Check Out My Latest Project Here: https://ca-nemo-app.herokuapp.com/
 
