@@ -1,18 +1,19 @@
-### Hi there 👋
 <h1 align="center">
-  <img src="https://svgur.com/i/iuT.svg" alt="fdsaf Lederer" />
+  <img src="https://svgur.com/i/iuT.svg" />
 </h1>
-<!--
-**omriluz/omriluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hey! 👋
+I'm Omri, A web developer from Israel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check Out My Latest Project Here: https://ca-nemo-app.herokuapp.com/
+
+[<img src="https://i.imgur.com/0KzqpW9.png"/>](https://ca-nemo-app.herokuapp.com/)
+
+✔ Fully functional Trello clone
+
+✔ Tech stack: Node.js, React.js, Express.js, MongoDB, SASS and SocketIO
+
+✔ Includes AI assistant to create any checklist the user wishes inside a card (Using GPT-3 engine from OpenAI)
+
+✔ Fully functional Trello clone
+
