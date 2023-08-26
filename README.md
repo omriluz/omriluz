@@ -6,7 +6,7 @@
 
 ## Check Out My Latest Project Here: https://ca-nemo-app.herokuapp.com/
 
-[<img src="https://i.imgur.com/AkKmeAx.png"/>](https://ca-nemo-app.herokuapp.com/)
+[<img src="https://i.imgur.com/AkKmeAx.png"/>]
 
 ✔ Fully functional Trello clone
 
